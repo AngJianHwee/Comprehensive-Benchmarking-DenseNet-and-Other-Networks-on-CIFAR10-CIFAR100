@@ -1,0 +1,9 @@
+# PyYAML
+# torch
+# torchvision
+tqdm
+# Pillow
+efficientnet_pytorch
+pretrainedmodels
+# tensorflow
+pyyaml

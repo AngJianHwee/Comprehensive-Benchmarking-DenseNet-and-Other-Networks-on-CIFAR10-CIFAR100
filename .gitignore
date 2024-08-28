@@ -1,0 +1,4 @@
+*.ffs_gui
+*.log
+.vscode
+__*

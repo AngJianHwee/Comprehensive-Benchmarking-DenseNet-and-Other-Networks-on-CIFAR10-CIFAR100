@@ -1,0 +1,24 @@
+# config.yaml
+
+# General settings
+log_dir: './logs'
+save_model_weights_dir: './model_weights'
+save_yaml_config_dir: './yaml_configs'
+
+# Dataset settings
+dataset: 'cifar10'
+data_dir: './data'
+num_workers: 4
+batch_size: 32
+load_dataset_all_in_ram: True
+
+# Model settings
+model: 'cnn'
+
+# Training settings
+num_epochs: 100
+learning_rate: 0.001
+
+# Other settings
+seed: 42
+
