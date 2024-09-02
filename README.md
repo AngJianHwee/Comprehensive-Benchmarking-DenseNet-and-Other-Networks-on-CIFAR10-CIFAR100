@@ -1,6 +1,6 @@
 # Comprehensive Benchmarking: DenseNet and Other Networks on CIFAR10 & CIFAR100
 
-This project include Benchmarking study of 14 well-known ML models including ResNet, Densenet, Custom CNN (with and without batch norm and dropout), EfficientNet, and others on CIFAR10 and CIFAR100 datasets.
+This project include Benchmarking study of 13 well-known ML models including ResNet, Densenet, Custom CNN (with and without batch norm and dropout), EfficientNet, and others on CIFAR10 and CIFAR100 datasets.
 
 This project provides a detailed examination of each model's capability in classifying image data, offering insights into their distinct strengths and weaknesses.
 
@@ -19,7 +19,6 @@ Currently, the following models are supported in this project:
 - ShuffleNetV2
 - VGG
 - InceptionV3
-- Xception
 - ResNeXt
 - AlexNet
 - NASNet
